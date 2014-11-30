@@ -1,0 +1,1 @@
+path %path%;G:\Programmation\Java\bin

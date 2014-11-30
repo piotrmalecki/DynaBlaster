@@ -1,0 +1,6 @@
+Doda³em opisu do bomby.
+Stworzy³em klasê przeciwnika. Co prawda jeszcze nie stawiaj¹ bomb, ale poruszaj¹ siê.
+Klasa Opponent produkuje trochê du¿o tekstu dla orientacji, ale mo¿esz wykomentowaæ wszystkie zapisy do konsoli.
+Doda³em trochê obrazków do folderu Images, poza tym zmieni³em trochê jego uk³ad, wiêc to te¿ uwzglêdnij przy dodawaniu plików do swojego projektu.
+Trochê siê napracowa³em dziœ, ale na pewno robiê sobie przerwê co najmniej na 2 dni.
+Czas byœ siê wykaza³:)
